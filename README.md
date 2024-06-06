@@ -1,3 +1,6 @@
+# Python Google Analytics Bridge
+Simple project to get google analytics report data through the DATA API
+
 1. Setup Virtual Environment
 - python3 -m venv env
 
